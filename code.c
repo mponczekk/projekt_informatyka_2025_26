@@ -2,7 +2,6 @@
 
 int main() {
 
-    printf("Witaj!");
 
     return 0;
 }
