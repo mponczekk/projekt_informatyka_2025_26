@@ -1,2 +1,2 @@
 Tytuł: Projekt informatyka <br>
-Autor: Mateusz Pączkowski
+Autor: Mateusz Pączkowski 
